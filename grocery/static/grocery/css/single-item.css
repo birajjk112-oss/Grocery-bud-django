@@ -40,3 +40,18 @@
 .single-item .remove-btn:hover {
   background: #900e0e;
 }
+
+/* Alignment tweaks */
+.single-item form {
+  margin: 0;
+}
+
+.single-item .item-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.single-item p {
+  margin: 0;
+}
